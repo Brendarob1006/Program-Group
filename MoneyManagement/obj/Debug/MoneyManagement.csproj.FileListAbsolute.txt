@@ -1,0 +1,11 @@
+C:\Users\CranLi10\source\repos\MoneyManagement\bin\Debug\MoneyManagement.exe.config
+C:\Users\CranLi10\source\repos\MoneyManagement\bin\Debug\MoneyManagement.exe
+C:\Users\CranLi10\source\repos\MoneyManagement\bin\Debug\MoneyManagement.pdb
+C:\Users\CranLi10\source\repos\MoneyManagement\obj\Debug\MoneyManagement.csproj.AssemblyReference.cache
+C:\Users\CranLi10\source\repos\MoneyManagement\obj\Debug\MoneyManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\CranLi10\source\repos\MoneyManagement\obj\Debug\MoneyManagement.BillingInformation.resources
+C:\Users\CranLi10\source\repos\MoneyManagement\obj\Debug\MoneyManagement.Properties.Resources.resources
+C:\Users\CranLi10\source\repos\MoneyManagement\obj\Debug\MoneyManagement.csproj.GenerateResource.cache
+C:\Users\CranLi10\source\repos\MoneyManagement\obj\Debug\MoneyManagement.csproj.CoreCompileInputs.cache
+C:\Users\CranLi10\source\repos\MoneyManagement\obj\Debug\MoneyManagement.exe
+C:\Users\CranLi10\source\repos\MoneyManagement\obj\Debug\MoneyManagement.pdb
